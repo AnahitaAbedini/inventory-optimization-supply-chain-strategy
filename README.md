@@ -1,14 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<style>
-body {font-family: Arial, sans-serif; line-height:1.6; max-width:900px; margin:auto; padding:30px;}
-.card {padding:20px; border-radius:12px; background:#f4f7fb; margin:15px 0;}
-h1 {color:#1f4e79;}
-.tag {display:inline-block; background:#d9edf7; padding:5px 10px; border-radius:15px; margin:3px;}
-img {max-width:100%; border-radius:10px; margin:15px 0;}
-</style>
-</head>
 <body>
 <h1>Inventory Optimization & Supply Chain Strategy</h1>
 
